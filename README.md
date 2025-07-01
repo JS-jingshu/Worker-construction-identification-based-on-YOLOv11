@@ -21,4 +21,4 @@
 ## 3. 模型预测
 使用效果最好的第二折的训练权重进行预测，预测效果如下：
 
-![预测效果展示](runs\detect\predict\detect.jpg)
+![预测效果展示](/runs/detect/predict/detect.jpg)
