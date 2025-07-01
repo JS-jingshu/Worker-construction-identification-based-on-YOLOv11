@@ -1,0 +1,7 @@
+path: D:\yolov11-main\datasets\Cross_validation\fold_4
+train: D:\yolov11-main\datasets\Cross_validation\fold_4\train\images
+val: D:\yolov11-main\datasets\Cross_validation\fold_4\val\images
+
+# Classes
+names:
+  0: worker
