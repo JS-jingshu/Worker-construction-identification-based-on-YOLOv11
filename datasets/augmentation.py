@@ -1,7 +1,5 @@
 # -*- coding: utf-8 -*-
 """
-Created on 2023-04-01 9:08
-@author: Fan yi ming
 Func: 对于目标检测的数据增强[YOLO]（特点是数据增强后标签也要更改）
 review：常用的数据增强方式；
         1.翻转：左右和上下翻转，随机翻转
@@ -9,7 +7,6 @@ review：常用的数据增强方式；
         3.改变色调
         4.添加噪声
 注意： boxes的标签和坐标一个是int，一个是float，存放的时候要注意处理方式。
-参考：https://github.com/REN-HT/Data-Augmentation/blob/main/data_augmentation.py
 """
 import torch
 from PIL import Image
